@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getfutureproof/fp_study_notes_hello_docker.git"
+    "url": "git+https://github.com/gretaivan/fp_study_notes_hello_docker.git"
   },
   "author": "futureproof",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/getfutureproof/fp_study_notes_hello_docker/issues"
+    "url": "https://github.com/gretaivan/fp_study_notes_hello_docker/issues"
   },
-  "homepage": "https://github.com/getfutureproof/fp_study_notes_hello_docker#readme",
+  "homepage": "https://github.com/gretaivan/fp_study_notes_hello_docker#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
